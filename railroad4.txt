@@ -1,0 +1,9 @@
+Orlando Tampa 210
+Miami Tampa 100
+Orlando Miami 205
+Jacksonville Tallahassee 130
+Jacksonville Orlando 170
+Tallahassee Orlando 180
+Tallahassee Miami 140
+Miami Jacksonville 120
+Tampa Tallahassee 150

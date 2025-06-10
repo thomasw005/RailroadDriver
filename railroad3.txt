@@ -1,0 +1,6 @@
+Orlando Tampa 100
+Miami Jacksonville 300
+Tampa Miami 275
+Miami Orlando 230
+Jacksonville Tampa 190
+Orlando Jacksonville 120
